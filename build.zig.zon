@@ -1,0 +1,7 @@
+.{
+    .name = .pbt,
+    .version = "0.0.0",
+    .fingerprint = 0xab130d42ea459e89, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.16.0",
+    .paths = .{ "build.zig", "build.zig.zon", "src", "README.md", "LICENSE" },
+}
